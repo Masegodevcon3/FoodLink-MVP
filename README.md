@@ -28,3 +28,12 @@ This MVP includes:
 ---
 
 ## 📂 Project Structure
+
+foodlink-mvp/
+│── index.html # Landing page
+│── growers.html # List of growers
+│── order.html # Order form
+│── thankyou.html # Confirmation page
+│── style.css # Shared styles
+│── script.js # Form submission redirect
+│── /images/ # Project images
